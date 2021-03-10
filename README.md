@@ -121,7 +121,7 @@ Unit 8: Group Milestone - README
 <img src = "https://i.imgur.com/dKqzGRr.jpg" width=800>
 
 ### [BONUS] Digital Wireframes & Mockups
-<img src = "https://i.imgur.com/oL3huYz.gif" width=500>
+<img src = "https://i.imgur.com/oL3huYz.gif" width=400>
 
 ### [BONUS] Interactive Prototype
 

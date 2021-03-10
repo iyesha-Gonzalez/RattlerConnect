@@ -121,10 +121,7 @@ Unit 8: Group Milestone - README
 <img src = "https://i.imgur.com/dKqzGRr.jpg" width=800>
 
 ### [BONUS] Digital Wireframes & Mockups
-<img src = "https://i.imgur.com/zIQ0TgC.png" width=400> <img src = "https://i.imgur.com/isflb9P.png" width=400> <img src = "https://i.imgur.com/JwyC21r.png" width=400>
-<img src = "https://i.imgur.com/uRYeqPI.png" width=400> <img src = "https://i.imgur.com/T9D10zQ.png" width=400> <img src = "https://i.imgur.com/ZjlwwOo.png" width=400>
-<img src = "https://i.imgur.com/M9qEDSv.png" width=400> <img src = "https://i.imgur.com/uJcek7P.png" width=400> <img src = "https://i.imgur.com/byKSZsI.png" width=400>
-<img src = "https://i.imgur.com/oFad3JD.png" width=400> <img src = "https://i.imgur.com/kt1h6Bh.png" width=400>
+<img src = "https://i.imgur.com/zIQ0TgC.png" width=200> <img src = "https://i.imgur.com/isflb9P.png" width=200> <img src = "https://i.imgur.com/JwyC21r.png" width=200> <img src = "https://i.imgur.com/uRYeqPI.png" width=200> <img src = "https://i.imgur.com/T9D10zQ.png" width=200> <img src = "https://i.imgur.com/ZjlwwOo.png" width=200> <img src = "https://i.imgur.com/M9qEDSv.png" width=200> <img src = "https://i.imgur.com/uJcek7P.png" width=200> <img src = "https://i.imgur.com/byKSZsI.png" width=200> <img src = "https://i.imgur.com/oFad3JD.png" width=200> <img src = "https://i.imgur.com/kt1h6Bh.png" width=200>
 
 ### [BONUS] Interactive Prototype
 

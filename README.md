@@ -126,7 +126,7 @@ Unit 8: Group Milestone - README
 ### [BONUS] Interactive Prototype
 
 https://user-images.githubusercontent.com/57050918/110565200-136e5f80-811c-11eb-896d-6e4aae9cc538.mov
-<img src = "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FV5rp5vsdsmZURdqTFOICQf%2FRattlerConnect%3Fnode-id%3D8%253A16%26scaling%3Dcontain" width=800>
+<img src = "https://user-images.githubusercontent.com/57050918/110565200-136e5f80-811c-11eb-896d-6e4aae9cc538.mov" width=800>
 
 ## Schema 
 [This section will be completed in Unit 9]

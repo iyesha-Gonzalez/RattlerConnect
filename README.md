@@ -125,7 +125,6 @@ Unit 8: Group Milestone - README
 
 ### [BONUS] Interactive Prototype
 
-https://user-images.githubusercontent.com/57050918/110565200-136e5f80-811c-11eb-896d-6e4aae9cc538.mov
 <img src = "https://user-images.githubusercontent.com/57050918/110565200-136e5f80-811c-11eb-896d-6e4aae9cc538.mov" width=800>
 
 ## Schema 

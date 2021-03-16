@@ -167,6 +167,22 @@ Unit 8: Group Milestone - README
 | RecentPostLibrary | Pointer | Points to recent posts |
 ### Networking
 #### List of network requests by screen
+* Home
+    * nonification screen to view activity
+    
+* Messaging
+    * Create a group screen
+    * Join a group screen
+
+* Create (Camera)
+    * Add photo from gallery
+    * Add document 
+    * Create a poll
+    * Take a photo
+    * Home (after you finish posting the photo)
+  
+* Profile 
+    * Settings  
 * Home Feed Screen
   *(Read/GET) Query all posts where user is author
   *(Create/POST) Create a new like on a post

@@ -129,7 +129,7 @@ Unit 8: Group Milestone - README
 
 
 ## Schema 
-POST
+#POST
 | PROPERTY | TYPE | DESCRIPTION |
 | -------- | ---- | ----------- |
 | objectId | String | Unique id for a post |
@@ -144,7 +144,7 @@ POST
 | Poll | String and Number | Poll for displaying user choices on a post. |
 
 
-Group Chat
+#Group Chat
 | PROPERTY | TYPE | DESCRIPTION |
 | -------- | ---- | ----------- |
 | ObjectID | String | Unique id for a message |
@@ -154,7 +154,7 @@ Group Chat
 | Document | File | Document posted as message |
 | CreatedAt | Date/Time | Date and or time since message sent |
 
-Profile
+#Profile
 | PROPERTY | TYPE | DESCRIPTION |
 | -------- | ---- | ----------- |
 | ProfileID | String | Unique id for Profile |

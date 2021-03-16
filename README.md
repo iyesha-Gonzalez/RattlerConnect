@@ -130,37 +130,37 @@ Unit 8: Group Milestone - README
 
 ## Schema 
 POST
-|PROPERTY|TYPE|DESCRIPTION|
-|-------------------------|
-|objectId|String|Unique id for a post|
-|Author|Pointer|Author of post|
-|Image|File|Image posted by the user|
-|Video|File|Video posted by the user|
-|Document|File|File posted by the user|
-|Header/Caption|String|Header/Caption for post|
-|replyCount|Number|Number of comments on a post|
-|createdAt|Date/Time|Date and or time since post|
-|updatedAt|Date/Time|Date and or time of last update to post|
-|Poll|String and Number|Poll for displaying user choices on a post.|
+| PROPERTY | TYPE | DESCRIPTION |
+| ------------------------- |
+| objectId | String | Unique id for a post |
+| Author | Pointer | Author of post |
+| Image | File | Image posted by the user |
+| Video | File | Video posted by the user |
+| Document | File | File posted by the user |
+| Header/Caption | String | Header/Caption for post |
+| replyCount | Number | Number of comments on a post |
+| createdAt | Date/Time | Date and or time since post |
+| updatedAt | Date/Time | Date and or time of last update to post |
+| Poll | String and Number | Poll for displaying user choices on a post. |
 
 
 Group Chat
-|PROPERTY|TYPE|DESCRIPTION|
-|ObjectID|String|Unique id for a message|
-|Author|Pointer|Pointer of the message sender|
-|Image|File|Image posted as message|
-|Video|File|Video posted as message|
-|Document|File|Document posted as message|
-|CreatedAt|Date/Time|Date and or time since message sent|
+| PROPERTY | TYPE | DESCRIPTION |
+| ObjectID | String | Unique id for a message |
+| Author | Pointer | Pointer of the message sender |
+| Image | File | Image posted as message |
+| Video | File | Video posted as message |
+| Document | File | Document posted as message |
+| CreatedAt | Date/Time | Date and or time since message sent |
 
 Profile
-|PROPERTY|TYPE|DESCRIPTION|
-|ProfileID|String|Unique id for Profile|
-|Name|String|Name of Person|
-|Image|File|Profile Image|
-|PhotoLibrary|Files|Grouping of photos|
-|DocumentLibrary|Files|Grouping of documents|
-|RecentPostLibrary|Pointer|Points to recent posts|
+| PROPERTY | TYPE | DESCRIPTION |
+| ProfileID | String | Unique id for Profile |
+| Name | String | Name of Person |
+| Image | File | Profile Image |
+| PhotoLibrary | Files | Grouping of photos |
+| DocumentLibrary | Files | Grouping of documents |
+| RecentPostLibrary | Pointer | Points to recent posts |
 
 [This section will be completed in Unit 9]
 ### Models

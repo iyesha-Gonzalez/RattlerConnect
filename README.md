@@ -146,6 +146,7 @@ POST
 
 Group Chat
 | PROPERTY | TYPE | DESCRIPTION |
+| -------- | ---- | ----------- |
 | ObjectID | String | Unique id for a message |
 | Author | Pointer | Pointer of the message sender |
 | Image | File | Image posted as message |
@@ -155,6 +156,7 @@ Group Chat
 
 Profile
 | PROPERTY | TYPE | DESCRIPTION |
+| -------- | ---- | ----------- |
 | ProfileID | String | Unique id for Profile |
 | Name | String | Name of Person |
 | Image | File | Profile Image |

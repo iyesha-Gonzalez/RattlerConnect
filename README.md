@@ -167,33 +167,27 @@ Unit 8: Group Milestone - README
 | RecentPostLibrary | Pointer | Points to recent posts |
 ### Networking
 #### List of network requests by screen
+
 * Home
-    * nonification screen to view activity
+    * (Read/GET) All posts from users followers
+    * (Create/POST) Create a new like on a post
+    * (Create/POST) Create a new comment on a post
+    * (Delete) Delete existing comment
+
+* Nonification
+    * (GET) Notifications interactons from users friends
     
 * Messaging
-    * Create a group screen
-    * Join a group screen
+    * (Create/CHAT) Create a new direct or group chat
+    * (Delete) Delete Chat
 
-* Create (Camera)
-    * Add photo from gallery
-    * Add document 
-    * Create a poll
-    * Take a photo
-    * Home (after you finish posting the photo)
+* Create 
+    * (Create/POST) Create a new post object
   
 * Profile 
-    * Settings  
-* Home Feed Screen
-  *(Read/GET) Query all posts where user is author
-  *(Create/POST) Create a new like on a post
-  *(Delete) Delete existing like
-  *(Create/POST) Create a new comment on a post
-  *(Delete) Delete existing comment
-*Create Post Screen
-  *(Create/POST) Create a new post object
-Profile Screen
-  *(Read/GET) Query logged in user object
-  *(Update/PUT) Update user profile image
+    * (Read/GET) Query logged in user object 
+    * (Update/PUT) Update user profile image
+    * (Update/PUT) Update user profile description
 
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]

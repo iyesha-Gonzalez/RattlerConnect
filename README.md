@@ -129,7 +129,9 @@ Unit 8: Group Milestone - README
 
 
 ## Schema 
-### POST
+[This section will be completed in Unit 9]
+### Models
+#### POST
 | PROPERTY | TYPE | DESCRIPTION |
 | -------- | ---- | ----------- |
 | objectId | String | Unique id for a post |
@@ -144,7 +146,7 @@ Unit 8: Group Milestone - README
 | Poll | String and Number | Poll for displaying user choices on a post. |
 
 
-### Group Chat
+#### Group Chat
 | PROPERTY | TYPE | DESCRIPTION |
 | -------- | ---- | ----------- |
 | ObjectID | String | Unique id for a message |
@@ -154,7 +156,7 @@ Unit 8: Group Milestone - README
 | Document | File | Document posted as message |
 | CreatedAt | Date/Time | Date and or time since message sent |
 
-### Profile
+#### Profile
 | PROPERTY | TYPE | DESCRIPTION |
 | -------- | ---- | ----------- |
 | ProfileID | String | Unique id for Profile |
@@ -163,10 +165,6 @@ Unit 8: Group Milestone - README
 | PhotoLibrary | Files | Grouping of photos |
 | DocumentLibrary | Files | Grouping of documents |
 | RecentPostLibrary | Pointer | Points to recent posts |
-
-[This section will be completed in Unit 9]
-### Models
-[Add table of models]
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]

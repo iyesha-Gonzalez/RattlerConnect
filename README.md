@@ -131,7 +131,7 @@ Unit 8: Group Milestone - README
 ## Schema 
 POST
 | PROPERTY | TYPE | DESCRIPTION |
-| ------------------------- |
+| -------- | ---- | ----------- |
 | objectId | String | Unique id for a post |
 | Author | Pointer | Author of post |
 | Image | File | Image posted by the user |

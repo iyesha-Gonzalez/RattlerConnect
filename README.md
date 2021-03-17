@@ -185,7 +185,22 @@ Unit 8: Group Milestone - README
     * (Create/POST) Create a new post object
   
 * Profile 
-    * (Read/GET) Query logged in user object 
+    * (Read/GET) Query logged in user object
+    * (Read/GET) Query all posts where user is author
+       '''
+               ParseQuery<Post> query = ParseQuery.getQuery(Post.class);
+        query.include(Post.KEY_USER);
+        query.whereEqualTo(Post.KEY_USER, ParseUser.getCurrentUser());
+        query.setLimit(20);
+        query.addDescendingOrder(Post.KEY_CREATED_KEY);
+        query.findInBackground(new FindCallback<Post>() {
+            @Override
+            public void done(List<Post> posts, ParseException e) {
+                if (e != null){
+                    Log.e(TAG, "Issue with getting posts");
+                    return;
+                }
+       '''
     * (Update/PUT) Update user profile image
     * (Update/PUT) Update user profile description
 

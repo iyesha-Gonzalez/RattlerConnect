@@ -129,7 +129,6 @@ Unit 8: Group Milestone - README
 
 
 ## Schema 
-[This section will be completed in Unit 9]
 ### Models
 #### POST
 | PROPERTY | TYPE | DESCRIPTION |

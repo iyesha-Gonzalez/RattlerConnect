@@ -204,5 +204,3 @@ Unit 8: Group Milestone - README
     * (Update/PUT) Update user profile image
     * (Update/PUT) Update user profile description
 
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]

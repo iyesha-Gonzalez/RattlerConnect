@@ -187,7 +187,7 @@ Unit 8: Group Milestone - README
 * Profile 
     * (Read/GET) Query logged in user object
     * (Read/GET) Query all posts where user is author
-       '''
+      ```
                ParseQuery<Post> query = ParseQuery.getQuery(Post.class);
         query.include(Post.KEY_USER);
         query.whereEqualTo(Post.KEY_USER, ParseUser.getCurrentUser());
@@ -200,7 +200,7 @@ Unit 8: Group Milestone - README
                     Log.e(TAG, "Issue with getting posts");
                     return;
                 }
-       '''
+       ```
     * (Update/PUT) Update user profile image
     * (Update/PUT) Update user profile description
 
